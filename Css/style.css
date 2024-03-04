@@ -78,26 +78,26 @@ a {
 
 .lni-telegram-original:hover {
     background: #0088cc;
-    border-radius: 100px;
+    border-radius: 200px;
     transition: 0.3s;
 }
 .lni-gallery:hover {
     background: #93c47d;
-    border-radius: 100px;
+    border-radius: 200px;
     transition: 0.3s;
 }
 .lni-mobile:hover {
     background: #3d3005;
-    border-radius: 100px;
+    border-radius: 200px;
     transition: 0.3s;
 }
 .lni-pencil-alt:hover {
     background: #1fb73b;
-    border-radius: 100px;
+    border-radius: 200px;
     transition: 0.3s;
 }
 .lni-github-original:hover {
     background: #000000;
-    border-radius: 100px;
+    border-radius: 200px;
     transition: 0.3s;
 }
