@@ -11,7 +11,7 @@ description: by AssunZain
 **Clean Flash:**
 - Download ROM
 - Reboot to recovery (TWRP/PBRP)
-- Wipe cache, dalvik, system, data, vendor Flash Gapps (if you choose the Vanilla variant of the ROM)
+- Wipe cache, dalvik, system, data, vendor flash Gapps (if you choose the Vanilla variant of the ROM)
 - Flash Dm-Verity
 - Reboot system
 - Done
