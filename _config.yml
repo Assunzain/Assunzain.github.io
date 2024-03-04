@@ -7,7 +7,7 @@ plugins:
 title: [ArcadiaOS]
 description: [A custom rom based on crDroid an LineageOS with extra fitures]
 relative_links:
-  enabled: false
+  enabled: true
   collections: true
 include:
   - changelog.html
