@@ -1,9 +1,9 @@
 ---
 title: Asus Zenfone Max M2 (X01AD)
-description: Brought to you by AssunZain
+description: by AssunZain
 ---
 
-<a href="#"><img align="center" img src="/assets/installation.png" /></a>
+<h2>Installation :<h2/>
 
 **Before start flashing…..**
 - Backup all your data to any external source.
